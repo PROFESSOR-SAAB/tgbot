@@ -18,12 +18,14 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
+
 Hello (tg://user?id={}) How are you🌹,
 
-I'm an filter bot with many capabilities!
+I'm a filter bot with many capabilities!
 Made by @PROFFASER_SAAB
 
 See /help for commands and more details.
+
 """
 
 HELP_STRINGS = """
