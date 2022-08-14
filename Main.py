@@ -19,9 +19,9 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 
-Hello (tg://user?id={}) How are you🌹,
+Hello {}, I AM A FILTER BOT {}! (tg://user?id={}) How are you🌹,
 
-I'm a filter bot with many capabilities!
+ filter bot with many capabilities!
 Made by @PROFFASER_SAAB
 
 See /help for commands and more details.
